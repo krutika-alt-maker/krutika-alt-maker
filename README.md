@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @krutika-alt-maker
-- 👀 I’m interested in Travelling
-- 🌱 I’m currently learning to survive 
+- 👀 I’m interested in Travelling with my friends aiming to be a solo traveller
+- 🌱 I’m currently learning to survive in corporate
+- ✨ On way to grow as a technically sound person
 
 
 <!---
